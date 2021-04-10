@@ -1,0 +1,5 @@
+*.txt
+harvest/
+.DS_Store
+.settings/
+.vscode/
